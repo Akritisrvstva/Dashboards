@@ -17,17 +17,23 @@ Dashboard Components
 Contributing
 License
 Features
-### Interactive Visualizations: The Sales Dashboard offers interactive and dynamic visualizations, enabling users to explore data in-depth by filtering and drilling down to specific details.
+### Interactive Visualizations: 
+The Sales Dashboard offers interactive and dynamic visualizations, enabling users to explore data in-depth by filtering and drilling down to specific details.
 
-### Key Performance Indicators (KPIs): Monitor essential business metrics with the KPIs section, which highlights sales trends, top-selling products, and more.
+### Key Performance Indicators (KPIs):
+Monitor essential business metrics with the KPIs section, which highlights sales trends, top-selling products, and more.
 
-### Regional Sales Analysis: Visualize sales performance across different regions using maps and other geographical representations.
+### Regional Sales Analysis:
+Visualize sales performance across different regions using maps and other geographical representations.
 
-### Time-based Analysis: Observe sales patterns over time with trend charts and time series analysis.
+### Time-based Analysis:
+Observe sales patterns over time with trend charts and time series analysis.
 
-### Customer Segmentation: Analyze customer data to identify valuable customer segments and their contribution to overall sales.
+### Customer Segmentation:
+Analyze customer data to identify valuable customer segments and their contribution to overall sales.
 
-### Export Data: The dashboard allows users to export data in various formats for further analysis.
+### Export Data:
+The dashboard allows users to export data in various formats for further analysis.
 
 # Getting Started
 ### Prerequisites
